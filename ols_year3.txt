@@ -1,0 +1,30 @@
+===== Year 3 Regression =====
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 CGPA_3   R-squared:                       0.232
+Model:                            OLS   Adj. R-squared:                 -0.152
+Method:                 Least Squares   F-statistic:                    0.6038
+Date:                Tue, 02 Sep 2025   Prob (F-statistic):              0.699
+Time:                        12:36:05   Log-Likelihood:                -16.336
+No. Observations:                  16   AIC:                             44.67
+Df Residuals:                      10   BIC:                             49.31
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+============================================================================================
+                               coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------
+Intercept                    8.1229      1.092      7.441      0.000       5.691      10.555
+C(Hostel_Block_3)[T.HB2]    -0.3085      0.837     -0.369      0.720      -2.173       1.556
+C(Hostel_Block_3)[T.HB3]     0.8139      1.076      0.757      0.467      -1.583       3.211
+C(Hostel_Block_3)[T.HB4]    -1.0104      1.744     -0.579      0.575      -4.895       2.875
+Floor_3                      0.2311      0.207      1.116      0.291      -0.230       0.693
+Roomates_3                  -0.0101      0.475     -0.021      0.983      -1.069       1.049
+==============================================================================
+Omnibus:                        3.339   Durbin-Watson:                   1.548
+Prob(Omnibus):                  0.188   Jarque-Bera (JB):                1.696
+Skew:                          -0.787   Prob(JB):                        0.428
+Kurtosis:                       3.260   Cond. No.                         39.3
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
