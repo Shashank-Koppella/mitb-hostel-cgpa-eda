@@ -38,3 +38,12 @@ Ensure `Data.xlsx` is in the project root.
 ## Notes
 - Missing values are handled conservatively.
 - Categorical levels with fewer than 3 observations are dropped from OLS to avoid unstable estimates.
+
+## Limitations
+
+- **Sample imbalance:** The majority of responses come from 1st and 2nd year students.  
+- **Upper years:** 3rd and 4th year cohorts had very few responses. Any statistical results for these groups should be treated as indicative only, not conclusive.  
+- **Survey nature:** All data is self-reported, so CGPA values and environment ratings may have subjective bias.  
+
+These limitations are important when interpreting the significance of results.
+
