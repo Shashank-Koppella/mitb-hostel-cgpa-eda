@@ -6,6 +6,11 @@ This repository analyzes how the hostel environment and related factors (block, 
 - Source: `Data.xlsx`
 - Tidy version saved as: `mit_hostel_cgpa_project/long_student_year_data.csv` (one row per student-year).
 
+⚠️ Note on Data Coverage:
+The dataset is skewed towards 1st and 2nd year students.
+Responses from 3rd and 4th year students are very limited (n < X).
+As a result, statistical tests and regression results for 3rd/4th years should be interpreted with caution — they may not be representative of the overall population.
+
 ## Methods
 - Descriptive plots: CGPA distributions per year; CGPA by hostel block.
 - Statistical tests: 
