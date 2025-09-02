@@ -1,0 +1,597 @@
+row_id,year,cgpa,hostel_stay,hostel_block,roommates,study_loc
+0,1,7.07,Yes,HB1,2.0,Room (even friend's room)
+1,1,6.7,Yes,HB1,3.0,Room (even friend's room)
+2,1,7.0,Yes,HB1,2.0,Room (even friend's room)
+3,1,6.12,Yes,HB4,1.0,Room (even friend's room)
+4,1,8.86,Yes,HB1,3.0,Room (even friend's room)
+5,1,8.69,Yes,HB4,2.0,Room (even friend's room)
+6,1,7.6,Yes,HB1,2.0,Room (even friend's room)
+7,1,8.8,Yes,HB4,0.0,Room (even friend's room)
+8,1,8.81,Yes,HB1,3.0,Room (even friend's room)
+9,1,8.98,Yes,HB1,2.0,Room (even friend's room)
+10,1,6.0,Yes,HB1,3.0,Room (even friend's room)
+11,1,7.9,Yes,HB1,2.0,Room (even friend's room)
+12,1,8.8,Yes,HB2,2.0,Room (even friend's room)
+13,1,7.3,Yes,HB1,2.0,Room (even friend's room)
+14,1,7.15,Yes,HB1,2.0,Room (even friend's room)
+15,1,7.5,Yes,HB3,1.0,Library
+16,1,7.0,Yes,HB3,1.0,Room (even friend's room)
+17,1,9.33,Yes,HB3,1.0,Room (even friend's room)
+18,1,8.3,Yes,HB3,1.0,Room (even friend's room)
+19,1,7.14,Yes,HBO3,1.0,Room (even friend's room)
+20,1,9.19,Yes,HB4,1.0,Room (even friend's room)
+21,1,7.2,Yes,HB2,1.0,Room (even friend's room)
+22,1,6.5,Yes,HB3,1.0,Room (even friend's room)
+23,1,6.21,Yes,HB4,3.0,Room (even friend's room)
+24,1,7.4,Yes,HB3,1.0,Common Room
+25,1,7.9,Yes,HB3,1.0,Room (even friend's room)
+26,1,8.0,Yes,HB3,1.0,Library
+27,1,7.71,Yes,HB4,1.0,Room (even friend's room)
+28,1,8.45,Yes,HB4,1.0,Campus
+29,1,8.69,Yes,HB1,3.0,Common Room
+30,1,7.0,Yes,HB1,2.0,Room (even friend's room)
+31,1,7.52,Yes,HB1,2.0,Room (even friend's room)
+32,1,8.0,Yes,HB3,1.0,Common Room
+33,1,,No,,,
+34,1,7.7,Yes,HB2,2.0,Room (even friend's room)
+35,1,7.6,Yes,HB1,3.0,Room (even friend's room)
+36,1,8.0,Yes,HBO3,1.0,Room (even friend's room)
+37,1,8.14,Yes,HBO3,1.0,Room (even friend's room)
+38,1,8.76,Yes,HB4,3.0,Room (even friend's room)
+39,1,7.04,Yes,HB1,3.0,Room (even friend's room)
+40,1,7.5,Yes,HB2,2.0,Room (even friend's room)
+41,1,7.83,Yes,HB2,3.0,Room (even friend's room)
+42,1,6.91,Yes,HBO1,2.0,Room (even friend's room)
+43,1,9.3,Yes,HB1,1.0,library and room both
+44,1,6.45,Yes,HB1,2.0,Room (even friend's room)
+45,1,,No,,,
+46,1,8.21,Yes,HB2,1.0,Room (even friend's room)
+47,1,8.5,Yes,HB1,3.0,Room (even friend's room)
+48,1,6.1,Yes,HB1,2.0,Room (even friend's room)
+49,1,7.38,Yes,HB3,1.0,Room (even friend's room)
+50,1,7.45,Yes,HB3,0.0,Room (even friend's room)
+51,1,7.1,Yes,HB1,2.0,Room (even friend's room)
+52,1,9.57,Yes,HB3,1.0,Room (even friend's room)
+53,1,8.6,Yes,HB1,3.0,Room (even friend's room)
+54,1,8.17,Yes,HB4,1.0,Room (even friend's room)
+55,1,7.03,Yes,HBO1,2.0,Room (even friend's room)
+56,1,,No,,,
+57,1,8.1,Yes,HB2,2.0,Room (even friend's room)
+58,1,7.7,Yes,HB1,2.0,Room (even friend's room)
+59,1,8.9,Yes,HB3,1.0,Room (even friend's room)
+60,1,7.0,Yes,HB1,3.0,Room (even friend's room)
+61,1,8.1,Yes,HB3,1.0,Room (even friend's room)
+62,1,3.9,Yes,HB4,1.0,Room (even friend's room)
+63,1,7.2,Yes,HB4,2.0,Common Room
+64,1,9.31,Yes,HB3,3.0,Room (even friend's room)
+65,1,8.96,Yes,HB1,3.0,Library
+66,1,8.88,Yes,HB3,1.0,Common Room
+67,1,7.3,Yes,HB1,3.0,Room (even friend's room)
+68,1,8.55,Yes,HB2,3.0,Room (even friend's room)
+69,1,9.38,Yes,HB2,3.0,Room (even friend's room)
+70,1,7.65,Yes,HB2,2.0,Room (even friend's room)
+71,1,8.8,Yes,HB2,2.0,Common Room
+72,1,6.0,Yes,HB1,3.0,Room (even friend's room)
+73,1,8.6,Yes,HB4,1.0,Room (even friend's room)
+74,1,7.0,Yes,HB4,2.0,Room (even friend's room)
+75,1,6.05,Yes,HB4,2.0,Room (even friend's room)
+76,1,7.1,Yes,HB4,1.0,Common Room
+77,1,5.9,Yes,HB2,3.0,Room (even friend's room)
+78,1,7.0,Yes,HBO3,2.0,Room (even friend's room)
+79,1,7.0,Yes,HB2,2.0,Room (even friend's room)
+80,1,,No,,,
+81,1,8.36,Yes,HB4,1.0,Common Room
+82,1,7.86,Yes,HB2,3.0,Room (even friend's room)
+83,1,8.31,Yes,HB4,1.0,Room (even friend's room)
+84,1,7.405,Yes,HB1,3.0,Room (even friend's room)
+85,1,8.57,Yes,HB2,3.0,Room (even friend's room)
+86,1,7.81,Yes,HB4,1.0,Room (even friend's room)
+87,1,6.9,Yes,HB4,1.0,Room (even friend's room)
+88,1,7.97,Yes,HB4,1.0,Library
+89,1,7.76,Yes,HB4,3.0,Room (even friend's room)
+90,1,7.43,Yes,HB4,1.0,Room (even friend's room)
+91,1,8.43,Yes,HB4,2.0,Common Room
+92,1,9.17,Yes,HB4,2.0,Common Room
+93,1,8.19,Yes,HB4,1.0,Room (even friend's room)
+94,1,6.93,Yes,HBO3,1.0,Room (even friend's room)
+95,1,9.19,Yes,HB1,1.0,Room (even friend's room)
+96,1,7.9,Yes,HB4,1.0,Room (even friend's room)
+97,1,8.5,Yes,HB4,1.0,Room (even friend's room)
+98,1,7.0,Yes,HB2,2.0,Room (even friend's room)
+99,1,9.36,Yes,HB1,1.0,Room (even friend's room)
+100,1,8.1,Yes,HBO1,1.0,Room (even friend's room)
+101,1,8.45,Yes,HBO3,1.0,Room (even friend's room)
+102,1,8.86,Yes,HB4,1.0,Room (even friend's room)
+103,1,9.05,Yes,HBO1,1.0,Room (even friend's room)
+104,1,8.62,Yes,HB4,1.0,Never studied
+105,1,7.9,Yes,HB4,1.0,Room (even friend's room)
+106,1,9.2,Yes,HBO1,1.0,Room (even friend's room)
+107,1,9.52,Yes,HB2,2.0,Room (even friend's room)
+108,1,8.52,Yes,HB4,1.0,Room (even friend's room)
+109,1,6.9,Yes,HB4,2.0,Room (even friend's room)
+110,1,,No,,,
+111,1,8.69,Yes,HB4,1.0,Room (even friend's room)
+112,1,6.6,Yes,HB1,2.0,Room (even friend's room)
+113,1,,No,,,
+114,1,9.0,Yes,HB2,3.0,Room (even friend's room)
+115,1,7.0,Yes,HB4,1.0,Room (even friend's room)
+116,1,8.0,Yes,HB1,2.0,Room (even friend's room)
+117,1,7.265,Yes,HB2,3.0,Library
+118,1,9.26,Yes,HB2,3.0,
+119,1,7.86,Yes,HBO3,1.0,Room (even friend's room)
+120,1,,No,,,
+121,1,7.0,Yes,HBO3,1.0,Room (even friend's room)
+122,1,6.4,Yes,HBO3,1.0,Room (even friend's room)
+123,1,8.0,Yes,HB4,1.0,Common Room
+124,1,8.05,Yes,HB3,1.0,my room
+125,1,9.0,Yes,HB4,1.0,Common Room
+126,1,6.77,Yes,HB2,2.0,Room (even friend's room)
+127,1,7.3,Yes,HB3,1.0,Common Room
+128,1,7.73,Yes,HBO3,1.0,Room (even friend's room)
+129,1,8.64,Yes,HB4,1.0,Room (even friend's room)
+130,1,8.35,Yes,HB1,1.0,my own room
+131,1,7.57,Yes,HB1,1.0,Library
+132,1,8.57,Yes,HB4,1.0,Room (even friend's room)
+133,1,5.43,Yes,HB2,3.0,Room (even friend's room)
+134,1,9.14,Yes,HB4,0.0,Room (even friend's room)
+135,1,7.64,Yes,HBO3,1.0,Room (even friend's room)
+136,1,,No,,,
+137,1,7.9,Yes,HB4,2.0,Room (even friend's room)
+138,1,8.24,Yes,HBO3,1.0,Room (even friend's room)
+139,1,,No,,,
+140,1,7.86,Yes,HB4,3.0,Room (even friend's room)
+141,1,8.17,Yes,HB2,1.0,Room (even friend's room)
+142,1,3.55,Yes,HB4,3.0,Room (even friend's room)
+143,1,8.5,Yes,HB4,1.0,Room (even friend's room)
+144,1,7.71,Yes,HB2,2.0,Room (even friend's room)
+145,1,,No,,,
+146,1,7.54,Yes,HB4,1.0,Room (even friend's room)
+147,1,,No,,,
+148,1,8.95,Yes,HB4,1.0,Library
+0,2,8.325,Yes,HB1,2.0,Room (even friend's room)
+1,2,7.57,Yes,HB1,2.0,Room (even friend's room)
+2,2,7.0,Yes,HB1,2.0,Room (even friend's room)
+3,2,,No,,,
+4,2,9.25,Yes,HB1,3.0,Room (even friend's room)
+5,2,,No,,,
+6,2,7.4,Yes,HB1,1.0,Room (even friend's room)
+7,2,,No,,,
+8,2,8.0,Yes,HB1,3.0,Room (even friend's room)
+9,2,9.2,Yes,HB1,2.0,Room (even friend's room)
+10,2,6.0,Yes,HB1,3.0,Room (even friend's room)
+11,2,8.25,Yes,HB1,2.0,Room (even friend's room)
+12,2,7.3,Yes,HB2,1.0,Room (even friend's room)
+13,2,7.01,Yes,HB1,2.0,Room (even friend's room)
+14,2,7.73,Yes,HB1,2.0,Room (even friend's room)
+15,2,8.03,Yes,HB3,1.0,Library
+16,2,6.9,Yes,HB3,1.0,Room (even friend's room)
+17,2,9.5,Yes,HB3,1.0,Room (even friend's room)
+18,2,8.3,Yes,HB3,1.0,Library
+19,2,7.0,Yes,HB1,2.0,Room (even friend's room)
+20,2,,No,,,
+21,2,7.2,Yes,HB2,2.0,Room (even friend's room)
+22,2,6.9,Yes,HB3,1.0,Room (even friend's room)
+23,2,,No,,,
+24,2,8.43,Yes,HB3,1.0,Room (even friend's room)
+25,2,7.89,Yes,HB3,1.0,Library
+26,2,8.2,Yes,HB3,1.0,Room (even friend's room)
+27,2,,No,,,
+28,2,,No,,,
+29,2,7.065,Yes,HB1,3.0,Room (even friend's room)
+30,2,7.5,Yes,HB1,2.0,Room (even friend's room)
+31,2,7.76,Yes,HB1,2.0,Room (even friend's room)
+32,2,7.9,Yes,HB3,1.0,Common Room
+33,2,,No,,,
+34,2,8.6,Yes,HB2,2.0,Room (even friend's room)
+35,2,8.73,Yes,HB1,2.0,Room (even friend's room)
+36,2,8.3,Yes,HB4,1.0,Room (even friend's room)
+37,2,8.52,Yes,HB4,2.0,Room (even friend's room)
+38,2,,No,,,
+39,2,8.0,Yes,HB1,3.0,Room (even friend's room)
+40,2,,No,,,
+41,2,7.7,Yes,HB2,3.0,Room (even friend's room)
+42,2,,Yes,HB1,3.0,Room (even friend's room)
+43,2,9.72,Yes,HB1,1.0,library and room
+44,2,6.6,Yes,HB1,2.0,Room (even friend's room)
+45,2,7.8,Yes,HB1,3.0,
+46,2,7.845,Yes,HB2,1.0,Room (even friend's room)
+47,2,7.5,Yes,HB1,3.0,Room (even friend's room)
+48,2,,Yes,HB1,2.0,Room (even friend's room)
+49,2,7.33,Yes,HB3,1.0,Room (even friend's room)
+50,2,8.19,Yes,HB3,3.0,Room (even friend's room)
+51,2,7.1,Yes,HB1,2.0,Room (even friend's room)
+52,2,9.4,Yes,HB3,1.0,Room (even friend's room)
+53,2,8.5,Yes,HB1,3.0,Room (even friend's room)
+54,2,,No,,,
+55,2,5.5,Yes,HB1,2.0,Room (even friend's room)
+56,2,,No,,,
+57,2,8.2,Yes,HB2,2.0,Room (even friend's room)
+58,2,7.46,Yes,HB1,2.0,Room (even friend's room)
+59,2,9.0,Yes,HB3,1.0,Room (even friend's room)
+60,2,7.0,Yes,HB1,3.0,Room (even friend's room)
+61,2,9.0,Yes,HB3,1.0,Room (even friend's room)
+62,2,,No,,,
+63,2,,No,,,
+64,2,9.25,Yes,HB3,3.0,Room (even friend's room)
+65,2,9.01,Yes,HB1,3.0,Room (even friend's room)
+66,2,8.48,Yes,HB3,1.0,Room (even friend's room)
+67,2,7.3,Yes,HB1,3.0,Room (even friend's room)
+68,2,7.9,Yes,HB2,3.0,Room (even friend's room)
+69,2,9.67,Yes,HB2,1.0,Room (even friend's room)
+70,2,8.25,Yes,HB2,2.0,Room (even friend's room)
+71,2,8.5,Yes,HB2,2.0,Room (even friend's room)
+72,2,5.5,Yes,HB1,3.0,Room (even friend's room)
+73,2,,No,,,
+74,2,,No,,,
+75,2,,No,,,
+76,2,,No,,,
+77,2,6.74,Yes,HB2,3.0,Library
+78,2,,No,,,
+79,2,7.8,Yes,HB2,2.0,Room (even friend's room)
+80,2,,No,,,
+81,2,,No,,,
+82,2,7.975,Yes,HB2,3.0,Room (even friend's room)
+83,2,,No,,,
+84,2,9.375,Yes,HB1,3.0,Room (even friend's room)
+85,2,8.63,Yes,HB2,3.0,Room (even friend's room)
+86,2,,No,,,
+87,2,,No,,,
+88,2,,No,,,
+89,2,,No,,,
+90,2,,No,,,
+91,2,,No,,,
+92,2,,No,,,
+93,2,,No,,,
+94,2,,No,,,
+95,2,9.56,Yes,HB3,1.0,Room (even friend's room)
+96,2,,No,,,
+97,2,,No,,,
+98,2,7.0,Yes,HB2,2.0,Room (even friend's room)
+99,2,9.82,Yes,HB1,1.0,Room (even friend's room)
+100,2,,No,,,
+101,2,,No,,,
+102,2,,No,,,
+103,2,,No,,,
+104,2,,Yes,HB4,,
+105,2,,No,,,
+106,2,8.05,Yes,HB1,2.0,Room (even friend's room)
+107,2,,No,,,
+108,2,,No,,,
+109,2,,No,,,
+110,2,,No,,,
+111,2,,No,,,
+112,2,7.6,Yes,HB1,2.0,Room (even friend's room)
+113,2,,No,,,
+114,2,9.0,Yes,HB2,3.0,Room (even friend's room)
+115,2,,No,,,
+116,2,7.0,Yes,HB1,2.0,Library
+117,2,6.155,Yes,HB2,3.0,Library
+118,2,,No,,,
+119,2,,No,,,
+120,2,,No,,,
+121,2,,No,,,
+122,2,5.6,Yes,HB4,1.0,Room (even friend's room)
+123,2,,No,,,
+124,2,8.35,Yes,HB1,2.0,"room, friends room, common room"
+125,2,,No,,,
+126,2,6.8,Yes,HB2,2.0,Room (even friend's room)
+127,2,8.1,Yes,HB3,1.0,Library
+128,2,7.8,Yes,HB4,1.0,Library
+129,2,,No,,,
+130,2,8.25,Yes,HB1,1.0,Room (even friend's room)
+131,2,7.0,Yes,HB1,1.0,Room (even friend's room)
+132,2,,No,,,
+133,2,8.5,Yes,HB2,3.0,Room (even friend's room)
+134,2,,No,,,
+135,2,,No,,,
+136,2,8.78,Yes,HB4,1.0,Room (even friend's room)
+137,2,,No,,,
+138,2,9.35,Yes,HB4,1.0,Room (even friend's room)
+139,2,,No,,,
+140,2,,No,,,
+141,2,,No,,,
+142,2,,No,,,
+143,2,,No,,,
+144,2,8.5,Yes,HB2,2.0,Library
+145,2,,No,,,
+146,2,,No,,,
+147,2,,No,,,
+148,2,,No,,,
+0,3,,No,,,
+1,3,,No,,,
+2,3,,No,,,
+3,3,,No,,,
+4,3,,No,,,
+5,3,,No,,,
+6,3,,No,,,
+7,3,,No,,,
+8,3,,No,,,
+9,3,,No,,,
+10,3,,No,,,
+11,3,,No,,,
+12,3,,Yes,HB2,1.0,Room (even friend's room)
+13,3,,No,,,
+14,3,,No,,,
+15,3,,No,,,
+16,3,,No,,,
+17,3,,No,,,
+18,3,,Yes,HB3,1.0,Library
+19,3,,No,,,
+20,3,,No,,,
+21,3,,No,,,
+22,3,,No,,,
+23,3,,No,,,
+24,3,,No,,,
+25,3,,No,,,
+26,3,,No,,,
+27,3,,No,,,
+28,3,,No,,,
+29,3,,Yes,HB1,,
+30,3,,No,,,
+31,3,,No,,,
+32,3,,Yes,HB3,,
+33,3,,No,,,
+34,3,,No,,,
+35,3,,No,,,
+36,3,,No,,,
+37,3,,No,,,
+38,3,,No,,,
+39,3,,No,,,
+40,3,,No,,,
+41,3,,No,,,
+42,3,,No,,,
+43,3,,No,,,
+44,3,,No,,,
+45,3,,No,,,
+46,3,,No,,,
+47,3,,No,,,
+48,3,,No,,,
+49,3,,No,,,
+50,3,,No,,,
+51,3,7.5,Yes,HB1,2.0,Room (even friend's room)
+52,3,,No,,,
+53,3,,No,,,
+54,3,,No,,,
+55,3,,No,,,
+56,3,,No,,,
+57,3,7.96,Yes,HB2,2.0,Room (even friend's room)
+58,3,,No,,,
+59,3,,No,,,
+60,3,,No,,,
+61,3,,No,,,
+62,3,,No,,,
+63,3,,No,,,
+64,3,,No,,,
+65,3,,No,,,
+66,3,,No,,,
+67,3,,No,,,
+68,3,8.5,Yes,HB2,3.0,Room (even friend's room)
+69,3,9.5,Yes,HB2,2.0,Room (even friend's room)
+70,3,8.9,Yes,HB2,2.0,Room (even friend's room)
+71,3,8.9,Yes,HB2,2.0,Room (even friend's room)
+72,3,,No,,,
+73,3,,No,,,
+74,3,,No,,,
+75,3,,No,,,
+76,3,,No,,,
+77,3,,No,,,
+78,3,,No,,,
+79,3,8.2,Yes,HB2,2.0,Room (even friend's room)
+80,3,,No,,,
+81,3,,No,,,
+82,3,9.115,Yes,HB2,3.0,Room (even friend's room)
+83,3,,No,,,
+84,3,,No,,,
+85,3,8.76,Yes,HB2,3.0,Room (even friend's room)
+86,3,,No,,,
+87,3,,No,,,
+88,3,,No,,,
+89,3,,No,,,
+90,3,,No,,,
+91,3,,No,,,
+92,3,,No,,,
+93,3,,No,,,
+94,3,,No,,,
+95,3,9.62,Yes,HB3,1.0,Room (even friend's room)
+96,3,,No,,,
+97,3,,No,,,
+98,3,,No,,,
+99,3,9.64,Yes,HB1,1.0,Room (even friend's room)
+100,3,,No,,,
+101,3,,No,,,
+102,3,,No,,,
+103,3,,No,,,
+104,3,,Yes,,,
+105,3,,No,,,
+106,3,,No,,,
+107,3,,No,,,
+108,3,,No,,,
+109,3,,No,,,
+110,3,,No,,,
+111,3,,No,,,
+112,3,,No,,,
+113,3,,No,,,
+114,3,9.0,Yes,HB2,3.0,Room (even friend's room)
+115,3,,No,,,
+116,3,,No,,,
+117,3,7.615,Yes,HB2,3.0,Library
+118,3,,No,,,
+119,3,,No,,,
+120,3,,No,,,
+121,3,,No,,,
+122,3,,No,,,
+123,3,,No,,,
+124,3,,No,,,
+125,3,,No,,,
+126,3,6.85,Yes,HB2,2.0,Room (even friend's room)
+127,3,,No,,,
+128,3,,No,,,
+129,3,,No,,,
+130,3,,Yes,HB1,,
+131,3,,No,,,
+132,3,,No,,,
+133,3,8.7,Yes,HB4,3.0,Library
+134,3,,No,,,
+135,3,,No,,,
+136,3,,No,,,
+137,3,,No,,,
+138,3,,No,,,
+139,3,,No,,,
+140,3,,No,,,
+141,3,,No,,,
+142,3,,No,,,
+143,3,,No,,,
+144,3,8.5,Yes,HB2,2.0,Room (even friend's room)
+145,3,,No,,,
+146,3,,No,,,
+147,3,,No,,,
+148,3,,No,,,
+0,4,,No,,,
+1,4,,No,,,
+2,4,,No,,,
+3,4,,No,,,
+4,4,,No,,,
+5,4,,No,,,
+6,4,,No,,,
+7,4,,No,,,
+8,4,,No,,,
+9,4,,No,,,
+10,4,,No,,,
+11,4,,No,,,
+12,4,,No,,,
+13,4,,No,,,
+14,4,,No,,,
+15,4,,No,,,
+16,4,,No,,,
+17,4,,No,,,
+18,4,,No,,,
+19,4,,No,,,
+20,4,,No,,,
+21,4,,No,,,
+22,4,,No,,,
+23,4,,No,,,
+24,4,,No,,,
+25,4,,No,,,
+26,4,,No,,,
+27,4,,No,,,
+28,4,,No,,,
+29,4,,No,,,
+30,4,,No,,,
+31,4,,No,,,
+32,4,,Yes,,,
+33,4,,No,,,
+34,4,,No,,,
+35,4,,No,,,
+36,4,,No,,,
+37,4,,No,,,
+38,4,,No,,,
+39,4,,No,,,
+40,4,,No,,,
+41,4,,No,,,
+42,4,,No,,,
+43,4,,No,,,
+44,4,,No,,,
+45,4,,No,,,
+46,4,,No,,,
+47,4,,No,,,
+48,4,,No,,,
+49,4,,No,,,
+50,4,,No,,,
+51,4,,No,,,
+52,4,,No,,,
+53,4,,No,,,
+54,4,,No,,,
+55,4,,No,,,
+56,4,,No,,,
+57,4,7.94,Yes,HB2,2.0,Room (even friend's room)
+58,4,,No,,,
+59,4,,No,,,
+60,4,,No,,,
+61,4,,No,,,
+62,4,,No,,,
+63,4,,No,,,
+64,4,,No,,,
+65,4,,No,,,
+66,4,,No,,,
+67,4,,No,,,
+68,4,,No,,,
+69,4,,No,,,
+70,4,,No,,,
+71,4,,No,,,
+72,4,,No,,,
+73,4,,No,,,
+74,4,,No,,,
+75,4,,No,,,
+76,4,,No,,,
+77,4,,No,,,
+78,4,,No,,,
+79,4,,No,,,
+80,4,,No,,,
+81,4,,No,,,
+82,4,,No,,,
+83,4,,No,,,
+84,4,,No,,,
+85,4,,No,,,
+86,4,,No,,,
+87,4,,No,,,
+88,4,,No,,,
+89,4,,No,,,
+90,4,,No,,,
+91,4,,No,,,
+92,4,,No,,,
+93,4,,No,,,
+94,4,,No,,,
+95,4,,No,,,
+96,4,,No,,,
+97,4,,No,,,
+98,4,,No,,,
+99,4,,No,,,
+100,4,,No,,,
+101,4,,No,,,
+102,4,,No,,,
+103,4,,No,,,
+104,4,,Yes,,,
+105,4,,No,,,
+106,4,,No,,,
+107,4,,No,,,
+108,4,,No,,,
+109,4,,No,,,
+110,4,,No,,,
+111,4,,No,,,
+112,4,,No,,,
+113,4,,No,,,
+114,4,,No,,,
+115,4,,No,,,
+116,4,,No,,,
+117,4,,No,,,
+118,4,,No,,,
+119,4,,No,,,
+120,4,,No,,,
+121,4,,No,,,
+122,4,,No,,,
+123,4,,No,,,
+124,4,,No,,,
+125,4,,No,,,
+126,4,,No,,,
+127,4,,No,,,
+128,4,,No,,,
+129,4,,No,,,
+130,4,,No,,,
+131,4,,No,,,
+132,4,,No,,,
+133,4,8.5,Yes,HB2,3.0,Room (even friend's room)
+134,4,,No,,,
+135,4,,No,,,
+136,4,,No,,,
+137,4,,No,,,
+138,4,,No,,,
+139,4,,No,,,
+140,4,,No,,,
+141,4,,No,,,
+142,4,,No,,,
+143,4,,No,,,
+144,4,,No,,,
+145,4,,No,,,
+146,4,,No,,,
+147,4,,No,,,
+148,4,,No,,,
